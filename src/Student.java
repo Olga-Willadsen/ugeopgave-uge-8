@@ -8,11 +8,7 @@ Student (String studentName, int studentAge){
     this.studentAge=studentAge;
 }
 
-void printInfo (Student student){
-    System.out.println("Student name: "+student.studentName);
-    System.out.println("Student age: "+student.studentAge);
 
-}
 
 
 }
